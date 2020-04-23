@@ -67,4 +67,4 @@ def num2word(num):
 
 
 if __name__ == "__main__":
-    print(num2word(0))
+    print(num2word(99999)) # = 'ninety nine thousand nine hundred ninety nine'
